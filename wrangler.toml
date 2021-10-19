@@ -1,0 +1,3 @@
+workers_dev = false
+route = "*myblog.com/api*"
+zone_id = "$zoneId"
